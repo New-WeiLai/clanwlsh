@@ -1,0 +1,16 @@
+{
+	"name": "vclleasssh",
+  "main": "worker.js",
+	"compatibility_date": "2026-01-15",
+	"assets": {
+		"directory": "./",
+		"not_found_handling": "404-page"
+	}
+  "routes": [
+    {
+      "pattern": "www.clanwlsh.dpdns.org",
+      "zone_name": "clanwlsh.dpdns.org"
+    }
+  ],
+
+}
