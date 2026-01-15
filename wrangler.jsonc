@@ -6,11 +6,5 @@
 		"directory": "./",
 		"not_found_handling": "404-page"
 	}
-  "routes": [
-    {
-      "pattern": "www.clanwlsh.dpdns.org",
-      "zone_name": "clanwlsh.dpdns.org"
-    }
-  ],
 
 }
